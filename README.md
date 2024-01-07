@@ -1,6 +1,5 @@
 #CTFPDF
 -------------------
-![](splunk.png)
 
 How to Solve ?
 -------------------
@@ -20,4 +19,4 @@ Run John The Ripper
 
 Output
 -------------------
-![](splunk.png)
+![](john.png)
