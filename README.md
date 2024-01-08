@@ -21,6 +21,6 @@ Output
 -------------------
 ![](john.png)
 
-Output
+Alternative
 -------------------
 `https://github.com/robiot/zzCrack`
