@@ -20,3 +20,7 @@ Run John The Ripper
 Output
 -------------------
 ![](john.png)
+
+Output
+-------------------
+`https://github.com/robiot/zzCrack`
